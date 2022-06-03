@@ -1,0 +1,15 @@
+{
+    "files": ["Charts.py",
+    "manageemployee.py",
+    "mainmenu.py",
+    "manageemployeeleave.py",
+    "main.py",
+    "newemployee.py",
+    "AddLeave.py",
+    "database.py",
+    "database",
+    "Employee_Add_Info.py",
+    "employee_leave_info.py",
+    "calendar_dialogue.py"
+    ]
+}
